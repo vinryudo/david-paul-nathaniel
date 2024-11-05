@@ -1,0 +1,8 @@
+User Role               Username              Password 
+admin                   admin                 Pass1234 
+admin                   renmark               Pogi1234 
+content manager         paul                  david 
+content manager         richard               yap 
+system user             pedro                 penduko 
+
+
